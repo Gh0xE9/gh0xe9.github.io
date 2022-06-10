@@ -1,0 +1,3 @@
+# 你 crawl 你妈呢
+User-agent: *
+Disallow: /
